@@ -1,0 +1,138 @@
+{
+  "success": true,
+  "message": "",
+  "data": {
+    "customers": [
+      {
+        "name": "John1",
+        "organization": "PTR",
+        "status": "Active",
+        "email": "john@gmail.com",
+        "assignTo": "Fatima",
+        "address": "Hyderabad",
+        "mobileNo": "1234567890",
+        "imageUrl": "https://via.placeholder.com/150?text=John1"
+      },
+      {
+        "name": "John2",
+        "organization": "PTR",
+        "status": "Active",
+        "email": "john@gmail.com",
+        "assignTo": "Fatima",
+        "address": "Hyderabad",
+        "mobileNo": "1234567890",
+        "imageUrl": "https://via.placeholder.com/150?text=John2"
+      },
+      {
+        "name": "John3",
+        "organization": "PTR",
+        "status": "Active",
+        "email": "john@gmail.com",
+        "assignTo": "Fatima",
+        "address": "Hyderabad",
+        "mobileNo": "1234567890",
+        "imageUrl": "https://via.placeholder.com/150?text=John3"
+      },
+      {
+        "name": "John4",
+        "organization": "PTR",
+        "status": "Active",
+        "email": "john@gmail.com",
+        "assignTo": "Fatima",
+        "address": "Hyderabad",
+        "mobileNo": "1234567890",
+        "imageUrl": "https://via.placeholder.com/150?text=John4"
+      },
+      {
+        "name": "Item 1",
+        "organization": "Org 1",
+        "status": "Active",
+        "email": "item1@example.com",
+        "assignTo": "User 1",
+        "address": "Address 1",
+        "mobileNo": "1234567890",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Item 2",
+        "organization": "Org 2",
+        "status": "Inactive",
+        "email": "item2@example.com",
+        "assignTo": "User 2",
+        "address": "Address 2",
+        "mobileNo": "0987654321",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Item 3",
+        "organization": "Org 3",
+        "status": "Inactive",
+        "email": "item3@example.com",
+        "assignTo": "User 3",
+        "address": "Address 3",
+        "mobileNo": "0987654321",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Item 4",
+        "organization": "Org 4",
+        "status": "Inactive",
+        "email": "item4@example.com",
+        "assignTo": "User 4",
+        "address": "Address 4",
+        "mobileNo": "0987654321",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Item 5",
+        "organization": "Org 5",
+        "status": "Inactive",
+        "email": "item5@example.com",
+        "assignTo": "User 5",
+        "address": "Address 5",
+        "mobileNo": "0987654321",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Item 6",
+        "organization": "Org 6",
+        "status": "Inactive",
+        "email": "item6@example.com",
+        "assignTo": "User 6",
+        "address": "Address 6",
+        "mobileNo": "0987654321",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Item 7",
+        "organization": "Org 7",
+        "status": "Inactive",
+        "email": "item7@example.com",
+        "assignTo": "User 7",
+        "address": "Address 7",
+        "mobileNo": "0987654321",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Item 8",
+        "organization": "Org 8",
+        "status": "Inactive",
+        "email": "item8@example.com",
+        "assignTo": "User 8",
+        "address": "Address 8",
+        "mobileNo": "0987654321",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "name": "Item 9",
+        "organization": "Org 9",
+        "status": "Inactive",
+        "email": "item9@example.com",
+        "assignTo": "User 9",
+        "address": "Address 9",
+        "mobileNo": "0987654321",
+        "imageUrl": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+}
