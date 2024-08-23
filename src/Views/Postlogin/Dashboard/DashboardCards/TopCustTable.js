@@ -235,7 +235,6 @@ const TopCustomer = () => {
         }
         onColumnWidthsChange={handleColumnWidthsChange}  // Register the debounced callback
       />
-
       {/* Delete Confirmation Modal */}
       <Modal
         onDismiss={() => setIsDeleteModalOpen(false)}
